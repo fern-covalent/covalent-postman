@@ -186,13 +186,7 @@
             }
           ],
           "_type": "container"
-        }
-      ],
-      "_type": "container"
-    },
-    {
-      "name": "Class A",
-      "item": [
+        },
         {
           "name": "Nft",
           "item": [
